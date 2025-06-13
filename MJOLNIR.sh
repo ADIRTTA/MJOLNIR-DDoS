@@ -15,7 +15,6 @@ cd MJOLNIR-DDoS
 # Install dependencies
 echo "📦 Installing dependencies..."
 pkg install -y python git wget
-pip install --upgrade pip
 pip install -r requirements.txt
 
 # Create the MJOLNIR launcher (without git pull!)
