@@ -1,0 +1,6 @@
+requests
+rich
+pyfiglet
+termcolor
+getpass 
+socket 
