@@ -42,7 +42,9 @@ pip install requests rich pyfiglet
 ```bash
 git clone https://github.com/ADIRTTA/MJOLNIR-DDoS.git
 cd MJOLNIR-DDoS
-python MJOLNIR.py
+chmod +x *
+pip install -r requirements.txt
+python3 MJOLNIR.py
 ```
 
 ---
