@@ -46,7 +46,20 @@ chmod +x *
 pip install -r requirements.txt
 python3 MJOLNIR.py
 ```
+## 🧪 Shortcut install
 
+```bash
+wget https://raw.githubusercontent.com/ADIRTTA/MJOLNIR-DDoS/main/MJOLNIR.sh
+chmod +x MJOLNIR.sh
+bash MJOLNIR.sh
+```
+## ✅ After use Shortcut 
+
+```bash
+
+MJOLNIR        # Just runs the tool (no update)
+bash MJOLNIR.sh  # Only when you want to update the tool
+```
 ---
 
 ## 🧪 Proxy Config
