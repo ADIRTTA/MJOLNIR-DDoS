@@ -32,7 +32,11 @@
 ```bash
 pkg update -y
 pkg install python git -y
+pkg install python -y
+pkg install python3 -y
+pkg install wget -y
 pip install requests rich pyfiglet
+
 ````
 
 ---
