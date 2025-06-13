@@ -50,6 +50,7 @@ chmod +x *
 pip install -r requirements.txt
 python3 MJOLNIR.py
 ```
+---
 ## 🧪 Shortcut install
 
 ```bash
