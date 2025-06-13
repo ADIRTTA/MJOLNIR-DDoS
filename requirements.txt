@@ -3,4 +3,5 @@ rich
 pyfiglet
 termcolor
 getpass 
-socket 
+socket
+json
