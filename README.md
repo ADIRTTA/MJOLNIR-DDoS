@@ -2,7 +2,7 @@
 ---
 
 
-````markdown
+
 <p align="center">
   <img src="https://i.postimg.cc/Hxw51Y3Z/thor.png" alt="Mjolnir Logo" width="200"/>
 </p>
