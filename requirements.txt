@@ -2,5 +2,4 @@ requests
 rich
 pyfiglet
 termcolor
-socket
 json
