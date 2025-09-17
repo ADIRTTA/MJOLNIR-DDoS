@@ -8,7 +8,7 @@
 </p>
 
 <h1 align="center">⚡ MJOLNIR DDoS TOOL ⚡</h1>
-<p align="center"><strong>Developer: SHONCHOYON BARUA ADIRTTA [AD6R8T1_404]</strong></p>
+<p align="center"><strong>Developer: BLACK ZERO</strong></p>
 <p align="center">🔥 One of the Most Powerful Beast DDoS Tools - For Ethical Use Only 🔥</p>
 
 ---
