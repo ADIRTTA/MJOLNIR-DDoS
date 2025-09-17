@@ -2,4 +2,4 @@ requests
 rich
 pyfiglet
 termcolor
-json
+scapy
